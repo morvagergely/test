@@ -1,0 +1,9 @@
+name: stockmvp_app
+
+command:
+  bootstrap:
+    usePubspecOverrides: true
+
+packages:
+  - .
+  - packages/*

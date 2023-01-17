@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: flutter_riverpod
+dependency_overrides:
+  flutter_riverpod:
+    path: packages/flutter_riverpod
